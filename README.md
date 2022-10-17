@@ -1,2 +1,2 @@
 # I-don-t-know-what-I-m-doing
-I really don't
+Attempt at using DP to find minimum sleep time for maximum effect 
